@@ -26,35 +26,38 @@ theme = "raditian-free-hugo-theme"
 [menu]
 
   [[menu.header]]
-  name = "About"
+  name = "Matux"
   URL = "#about"
   weight = 2
 
   [[menu.header]]
-  name = "Portfolio"
+  name = "Canal"
   URL = "#portfolio"
   weight = 3
 
-  [[menu.header]]
-  name = "Contact"
-  URL = "#contact"
-  weight = 4
+ # [[menu.header]]
+ # name = "Contact"
+ # URL = "#contact"
+ # weight = 4
+
+
+
 
 
   [[menu.footer]]
-  name = "About"
+  name = "Matux"
   URL = "#about"
   weight = 2
 
   [[menu.footer]]
-  name = "Portfolio"
+  name = "Canal"
   URL = "#portfolio"
   weight = 3
 
-  [[menu.footer]]
-  name = "Contact"
-  URL = "#contact"
-  weight = 4
+ # [[menu.footer]]
+ # name = "Contact"
+ # URL = "#contact"
+ # weight = 4
 
 
 [params]
@@ -64,8 +67,8 @@ theme = "raditian-free-hugo-theme"
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
 
   [params.logo]
-    text1 = "Andreas"
-    text2 = "Ellure"
+    text1 = "Tokiinowa"
+    text2 = "Martín Marx"
 
   [params.footer]
       copyright = "© Raditian. All rights reserved."
